@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gongodes&label=Profile%20views&color=0e75b6&style=flat" alt="gongodes" /> </p>
 
-- 🌱 I’m currently learning **Dart and others mobile frameworks**
+- 🌱 I’m currently learning **Flutter and others mobile frameworks**
 
 - 📫 How to reach me **gonzalo.godoy.esp@gmail.com**
 
